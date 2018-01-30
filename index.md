@@ -1,6 +1,6 @@
 # Staff Logs
 
 ## Request Logs
-- [Lore](requests/lore)
-- [Rules](requests/rules)
+- [Lore](requests/lore.md)
+- [Rules](requests/rules.md)
 
