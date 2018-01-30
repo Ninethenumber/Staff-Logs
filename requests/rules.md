@@ -1,3 +1,3 @@
 # Rule Requests
 
-- [Test](test)
+- [Test](test.md)
