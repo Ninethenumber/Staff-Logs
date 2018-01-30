@@ -1,3 +1,7 @@
 # The Request
 
-***Name***
+**Name**
+
+*Rarity*
+
+*Tier*
