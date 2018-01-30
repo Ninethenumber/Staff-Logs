@@ -1,4 +1,4 @@
-# Staff Logs
+# [Staff Logs](https://github.com/Ninethenumber/Staff-Logs)
 
 ## Request Logs
 - [Lore](requests/lore.md)
